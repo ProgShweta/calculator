@@ -1,0 +1,30 @@
+.input-container input {
+  width: 100%;
+  border: 1px solid #b00f15;
+  background-color: #251d3a;
+  padding: 2rem;
+  color: #ffffff;
+  font-size: 1.5rem;
+  text-align: right;
+  letter-spacing: 0.5rem;
+}
+
+
+
+.row {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+
+.button {
+  border: 1px solid #cf4747;
+
+  padding: 1rem;
+  font-size: 1.5rem;
+  
+}
+
+.operator {
+  background-color: #cd2828;
+  color: #ffffff;
+}
